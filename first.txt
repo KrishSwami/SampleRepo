@@ -1,3 +1,4 @@
+Hi there,
 This is for commit 2
 Hello
 Third change
